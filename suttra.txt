@@ -1,0 +1,18 @@
+1.2.1. The roots collection
+1.2.1.1. The “roots” dyad
+Phenomena that are roots.
+Phenomena that are not roots.
+1.2.1.2. The “connected with roots” dyad
+Phenomena that are connected with roots.
+Phenomena that are not connected with roots.
+1.2.1.3. The “associated with roots” dyad
+Phenomena that are associated with roots.
+Phenomena that are not associated with roots.
+1.2.1.4. The “roots and connected with roots” dyad
+Phenomena that are roots and are connected with roots.
+Phenomena that are connected with roots but are not roots.
+1.2.1.5. The “roots and associated with roots” dyad
+Phenomena that are roots and are associated with roots.
+Phenomena that are associated with roots but are not roots.
+1.2.1.6. The “not roots and connected with roots” dyad
+Phenomena that are not roots but are connected with roots.
